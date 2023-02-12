@@ -1,0 +1,44 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CyclinderTest",
+            "request": "launch",
+            "mainClass": "OOPS.Challenge2.CyclinderTest",
+            "projectName": "Java Class_af3e1f4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rectangle1",
+            "request": "launch",
+            "mainClass": "OOPS.Rectangle1",
+            "projectName": "Java Class_af3e1f4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestSports",
+            "request": "launch",
+            "mainClass": "Abstract.TestSports",
+            "projectName": "Java Class_af3e1f4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sumpalindrom",
+            "request": "launch",
+            "mainClass": "practice.Sumpalindrom",
+            "projectName": "Java Class_af3e1f4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sumpalindrom",
+            "request": "launch",
+            "mainClass": "",
+            "projectName": "Java Class_af3e1f4f"
+        }
+    ]
+}
+   
